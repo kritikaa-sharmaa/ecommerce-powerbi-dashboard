@@ -178,4 +178,4 @@ The Power BI report is available in the repository:
 
 
 **Built by Kritika Sharma**  
-Indore, India | [LinkedIn](YOUR-LINKEDIN-URL)
+Indore, India | [LinkedIn](https://www.linkedin.com/in/kritika-sharma-a72199235/)
