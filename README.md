@@ -160,7 +160,7 @@ Based on the analysis:
 
 The Power BI report is available in the repository:
 
-[Download the Power BI Report](E-Commerce-Marketplace-Commercial-Performance-Analysis.pbix)
+[Download the Power BI Report](E-Commerce-Marketplace-Commercial-Performance-Analysis.pbix.pbix)
 
 
 
